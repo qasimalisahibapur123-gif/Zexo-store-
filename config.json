@@ -1,0 +1,8 @@
+{
+  "max_level": 31,
+  "auto_remove": true,
+  "stop_mode": "level",
+  "matches_per_account": 150,
+  "default_mode": "auto",
+  "ban_check_enabled": true
+}

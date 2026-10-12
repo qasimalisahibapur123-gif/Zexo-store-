@@ -1,0 +1,28 @@
+{
+  "zexo": {
+    "id": "0f956e63-9ae6-4dcd-9670-e70e7f6aa6e8",
+    "username": "zexo",
+    "display_name": "Zexo yt",
+    "password_hash": "18ce595b4fd7d62a0e2f3314e9f4e8041d2582947c34aa1b8c86b12fba61ea81",
+    "role": "user",
+    "plan": "Free",
+    "slots": 700,
+    "plan_expires_at": 1953565059,
+    "free_plan_claimed": false,
+    "created_at": 1791530988,
+    "last_login": 1791634357
+  },
+  "zexi": {
+    "id": "b8eb27e6-4548-4b0a-b571-bace215a698b",
+    "username": "zexi",
+    "display_name": "Zexo yt",
+    "password_hash": "0b7b06fe681cf4d64fc1306859a57969ec5252989e6774d116a7c0dd0f1a1cb9",
+    "role": "user",
+    "plan": "Free",
+    "slots": 162636363,
+    "plan_expires_at": 130910479033618,
+    "free_plan_claimed": false,
+    "created_at": 1791714426,
+    "last_login": 0
+  }
+}

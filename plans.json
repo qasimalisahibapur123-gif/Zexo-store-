@@ -1,0 +1,46 @@
+[
+  {
+    "id": "basic-7",
+    "name": "Basic",
+    "duration_text": "7 Days",
+    "duration_hours": 168,
+    "price_inr": 99,
+    "price_usd": 1.29,
+    "slots": 5,
+    "badge": null,
+    "popular": false
+  },
+  {
+    "id": "pro-30",
+    "name": "Pro",
+    "duration_text": "30 Days",
+    "duration_hours": 720,
+    "price_inr": 299,
+    "price_usd": 3.99,
+    "slots": 15,
+    "badge": "POPULAR",
+    "popular": true
+  },
+  {
+    "id": "ultra-30",
+    "name": "Ultra",
+    "duration_text": "30 Days",
+    "duration_hours": 720,
+    "price_inr": 599,
+    "price_usd": 7.99,
+    "slots": 40,
+    "badge": "BEST VALUE",
+    "popular": false
+  },
+  {
+    "id": "mega-90",
+    "name": "Mega",
+    "duration_text": "90 Days",
+    "duration_hours": 2160,
+    "price_inr": 1499,
+    "price_usd": 19.99,
+    "slots": 100,
+    "badge": null,
+    "popular": false
+  }
+]
